@@ -1,4 +1,5 @@
 # Startnummerngenerator
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/mit)
 
 Ein Python-Tool, um Startnummern für verschiedene Läufe als PDF zu erzeugen. Die PDFs werden auf Basis einer Scribus-Vorlage generiert und am Ende zu einer Datei zusammengefügt.
 
